@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aicha</h1>
-- 🌱 I’m currently learning **Java swing and Mapping Object Oriented**
+- 🌱 I’m currently learning **Machine learning and Multimedia Intelligence**
 
-- 📫 How to reach me **aichaaithmouch@gmail.com**
+- 📫 How to reach me **aichaaithammouch8@gmail.com**
 # INTERESTS
+ - Machine learning
+ - IA 
  - Cyber security
 
 <h3 align="left">Connect with me:</h3>
